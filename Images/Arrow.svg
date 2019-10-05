@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="12px" viewBox="0 0 10 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Borja-Alvarez" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01001_Home" transform="translate(-155.000000, -460.000000)" fill-rule="nonzero" stroke="#9B9B9B">
+            <g id="Arrow" transform="translate(156.000000, 460.000000)">
+                <path d="M4,3.83582055e-14 L4,12" id="Path-2"></path>
+                <polyline id="Path-3" points="8 8 4 12 4.35207426e-14 8"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

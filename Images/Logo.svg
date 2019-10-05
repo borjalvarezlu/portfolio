@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="48px" viewBox="0 0 37 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Borja-Alvarez" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01001_Home" transform="translate(-160.000000, -48.000000)" fill="#000000">
+            <g id="Menu">
+                <g id="Logo" transform="translate(160.000000, 48.000000)">
+                    <path d="M10,0 L10,5.4 L31.599325,5.4 L31.599325,10.8 L15.4,10.8 L10,10.8 L10,16.2 L10,21.6 L10,27 L15.4,27 L31.599325,27 L37,27 L37,0 L10,0 Z M15.4,21.6 L31.599325,21.6 L31.599325,16.2 L15.4,16.2 L15.4,21.6 Z" id="a"></path>
+                    <path d="M0,0 L0,32 L0,37.3333333 L0,42.6666667 L0,48 L5.28571429,48 L31.7142857,48 L37,48 L37,32 L31.7142857,32 L5.28571429,32 L5.28571429,0 L0,0 Z M5.28571429,42.6666667 L31.7142857,42.6666667 L31.7142857,37.3333333 L5.28571429,37.3333333 L5.28571429,42.6666667 Z" id="b"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
